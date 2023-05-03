@@ -1,0 +1,5 @@
+0 Ruído de fundo
+1 cachorro
+2 gato
+3 passarinho
+4 rato
